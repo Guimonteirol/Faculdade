@@ -1,0 +1,6 @@
+HLT = 0x8 1000
+ADD Rx, Ry = 0x9 1001
+MOV Rx, Ry = 0xB 1011
+MOV Rx, Ra = 0xC 1100
+RDM Rx, End = 0xD 1101
+STR End, Rx= 0xE 1110
